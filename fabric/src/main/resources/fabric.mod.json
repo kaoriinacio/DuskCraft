@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "tpcraft",
+  "version": "${version}",
+  "name": "TPCraft",
+  "description": "Minecraft dentro do Zelda: Twilight Princess (Dusklight) via memoria compartilhada. Default de teste: mundo DuskCraft plano, peaceful e sem mobs.",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["dev.tpcraft.TPCraftClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "fabric-api": "*"
+  }
+}

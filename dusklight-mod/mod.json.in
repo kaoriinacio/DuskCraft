@@ -1,0 +1,7 @@
+{
+  "id": "dev.tpcraft.tpcraft",
+  "name": "TPCraft",
+  "version": "@PROJECT_VERSION@",
+  "author": "Henrick",
+  "description": "Minecraft dentro do Twilight Princess via memoria compartilhada (esqueleto)."
+}

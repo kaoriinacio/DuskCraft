@@ -1,0 +1,44 @@
+﻿# Build artifacts
+build/
+build-cmake/
+out/
+dist/
+
+# C++ / CMake
+*.obj
+*.pdb
+*.dll
+*.exp
+*.lib
+*.ilk
+*.exe
+*.d
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CMakeUserPresets.json
+build-cmake/_deps/
+*.dusk
+build-cmake/mods/
+
+# Java / Gradle / Fabric
+*.class
+*.jar
+.gradle/
+fabric/build/
+fabric/.gradle/
+fabric/run/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Chat exports
+chat.json
+
+# IDE
+.vscode/
+.idea/
+*.bak
+Thumbs.db
